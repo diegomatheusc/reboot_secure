@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 # 
 # ---------------------------------------------------------------- #
-# Script Name:   gerenciador_apache.sh 
-# Description:   Script utilizado para realizar procedimentos no apache em caso de incidentes.
-# ATENÇÃO!:      Para utilizar no Ubuntu/Debian, é necessário alterar o nome do serviço -> systemctl apache2 restart
+# Script Name:   reboot_secure.sh 
+# Description:   Script utilizado para realizar o processo de reinicialização segura.
 # Linkedin:      linkedin.com/in/diegomatheusc
 # Escrito por:   Diego Matheus
 
