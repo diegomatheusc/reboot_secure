@@ -5,7 +5,7 @@
 # Description:   Script utilizado para realizar o processo de reinicialização segura.
 # Linkedin:      linkedin.com/in/diegomatheusc
 # Escrito por:   Diego Matheus
-
+# Atenção: O SCRIPT SÓ FUNCIONARÁ COM O MODO ROOT.
 # --------------------------------------------------------------- #
 
 
